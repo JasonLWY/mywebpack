@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # day01
 ## 1. 项目优化
     缓存路由组件对象
@@ -43,3 +44,7 @@
     2). 使用plugin打包html(引入js/css)
     3). webpack配置文件编写(结构): entry/output/module/plugins
     4). 项目的打包和发布
+=======
+# mywebpack
+webpack案例
+>>>>>>> 046f7d27a5016ff7b1b64dc9d7f6d1c0204adf05
